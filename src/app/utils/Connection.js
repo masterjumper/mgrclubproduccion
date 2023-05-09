@@ -1,0 +1,5 @@
+//export const Connection = 'https://matxclubservertest.herokuapp.com'
+export const Connection = 'https://matxclubservertestcli.herokuapp.com'
+//export const Connection = 'https://folederinformaticanodejstest.herokuapp.com'
+//export const Connection = 'http://localhost:3002' 
+//export const Connection = 'http://192.168.56.1:3001'
